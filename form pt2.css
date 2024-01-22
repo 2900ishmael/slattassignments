@@ -1,0 +1,55 @@
+form{
+    background-color: mediumvioletred ;
+    width: 60%;
+    margin: auto;
+    padding: 60px;
+    text-align:justify;
+    border-radius: 30px;
+    height: 100%;
+
+
+}
+body{
+    background-color: palevioletred ;
+}
+legend{
+    text-align: center;
+
+}
+input[type=text],input[type=email],input[type=password],select{
+    width: 350px;
+    height: 35px;
+    padding-left: 20px;
+    margin-top: 30px;
+
+}
+button{
+    width: 100%;
+    height: 40px;
+}
+#name{
+    margin-inline: auto;
+}
+#email{
+   margin-inline: auto;
+}
+#pwd{
+    margin-inline: auto;
+}
+#no{
+   margin-inline: auto;
+    padding-left: 20px;
+
+
+}
+#pwd{
+    margin: 40px;
+}
+#gender{
+    margin: 20px;
+}
+#lang{
+    margin-inline: auto;
+}
+
+
